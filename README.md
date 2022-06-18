@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shadows1003929
 - 👀 I’m interested in programming and science
 - 🌱 I’m currently learning python
-- 📘 I'm is school
+- 📘 I'm in school
 
 
 <!---
