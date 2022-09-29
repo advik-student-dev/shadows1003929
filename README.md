@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shadows1003929
+- 👋 Hi, I’m Advik
 - 👀 I’m interested in programming and science
 - 🌱 I’m currently learning python
 - 📘 I'm in school
